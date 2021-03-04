@@ -1,0 +1,19 @@
+#include<iostream>
+#include<stdio.h>
+#include<conio.h>
+using namespace std;
+
+int main()
+{
+    int i = 1, j = 2, k = 3;
+
+    int m = i-- - j-- - k--;
+
+    cout << i << endl;
+    cout << j << endl;
+    cout << k << endl;
+    cout << m << endl;
+
+    getch();
+    return 0;
+}
