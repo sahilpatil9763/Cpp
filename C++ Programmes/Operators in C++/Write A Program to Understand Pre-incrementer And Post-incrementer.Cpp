@@ -12,5 +12,6 @@ int main()
 
     cout << i << " " << j << " " << " " << k << endl;
 
+    getch();
     return 0;
 }
