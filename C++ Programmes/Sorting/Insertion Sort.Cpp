@@ -33,6 +33,6 @@ int main()
 
     cout << endl;
 
-    getch();
+    
     return 0;
 }
